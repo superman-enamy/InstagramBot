@@ -23,12 +23,12 @@ By @StarkBots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/digitaltrend_in")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/digitaltrend_in")],
     ]
 
     # Help Message
@@ -54,7 +54,7 @@ Use /auth to authorize and /unauth to unauthorize.
 
 A telegram bot to download instagram content by @StarkBots
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/InstagramBot)
+Source Code : [Click Here](https://t.me/digitaltrend_in)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
